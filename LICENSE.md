@@ -20,3 +20,5 @@ you may create your own license for your modified version,
 provided that you also include the original license (this license) unchanged as `ORIGINAL_LICENSE.md`.
 Your own license must not grant permissions that conflict with or exceed those granted by the original license regarding the original Chestplate project.
 Anyone who modifies or redistributes your version must still give credit to the original creator, _arx160 (https://github.com/_arx160).
+
+Note that in the original version of Chestplate this license is called `LICENSE.md`.
